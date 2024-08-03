@@ -1,7 +1,6 @@
 # Human-emotion-Detection
 
 
-![Emotion Detection](path/to/sample_output.jpg)
 
 This repository contains the implementation of a human emotion detection system using OpenCV, a popular computer vision library. The project aims to identify human emotions from facial expressions captured through a webcam or an image.
 
